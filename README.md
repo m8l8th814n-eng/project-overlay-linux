@@ -1,2 +1,2 @@
-# project-overlay-linux
-future adaptive linux with overlayfs
+# project overlay-linux.
+wip! overlayfslinux 
